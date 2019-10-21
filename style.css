@@ -550,7 +550,7 @@ range slider */
 .irs-line {
     height: 8px; top: 33px;
     background: #999;
-    background: #999 /* W3C */
+    background: #999; /* W3C */
     border: 1px solid #CCC;
     border-radius: 16px;
     -moz-border-radius: 16px;
