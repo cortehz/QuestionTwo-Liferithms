@@ -13,7 +13,7 @@ h4 {
     margin-bottom: 0 !important;;
     font-size: 12px !important;
     font-weight: 600 !important;
-    color: rgb(102, 102, 102);
+    color: rgb(102, 102, 102);letter-spacing: 1.5px;
 }
 
 main {
@@ -63,7 +63,7 @@ main {
 h5 {
     margin: 0;
     line-height: 0;
-    font-size: 12px !important; margin-bottom: 0 !important;
+    font-size: 12px !important; margin-bottom: 0 !important; 
 } 
 label{margin-bottom: 0 !important;}
 
@@ -739,6 +739,8 @@ color: white; background: #12afafe3;
     .one {
         margin-right: 0;
     }
-
+    .container_divs{ width: 90%;}
+    .container_divs_two{width:90%}
+    .bottom_two{width:100%;}
     .two{margin-left: 0; margin-top: 25px;}
   }
